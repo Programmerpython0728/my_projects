@@ -1,2 +1,2 @@
 # my_projects
-about us page with django
+Mening darst davomida bargan ishlarim
